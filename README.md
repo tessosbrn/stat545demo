@@ -1,5 +1,3 @@
-# stat545demo
+# stat545 demo
 
-New info here.
-
-More changes. Doing more analyses.
+This is a demonstration
